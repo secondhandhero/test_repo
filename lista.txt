@@ -1,0 +1,8 @@
+total 30
+drwxr-xr-x 1 d.kobylarz 1049089     0 lis 22 11:31 ./
+drwxr-xr-x 1 d.kobylarz 1049089     0 lis 20 12:33 ../
+drwxr-xr-x 1 d.kobylarz 1049089     0 lis 22 10:56 .git/
+-rw-r--r-- 1 d.kobylarz 1049089 12288 lis 21 09:37 .test1.txt.swp
+-rw-r--r-- 1 d.kobylarz 1049089     0 lis 22 11:31 lista.txt
+-rw-r--r-- 1 d.kobylarz 1049089    44 lis 20 12:56 README.md
+-rw-r--r-- 1 d.kobylarz 1049089    33 lis 20 13:07 test1.txt
