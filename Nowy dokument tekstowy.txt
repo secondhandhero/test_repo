@@ -1,1 +1,0 @@
-The Art Of Unit testing (Roy Osherove)
